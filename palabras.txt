@@ -1,0 +1,827 @@
+uvas
+melón
+sandía
+Mandarina
+limón
+plátano
+piña
+manzana roja
+manzana verde
+Pera
+melocotón
+guindas
+fresa
+kiwi
+tomate
+aguacate
+berenjena
+patata
+Zanahoria
+oído de maíz
+guindilla
+Pepino
+seta
+miseria
+castaña
+pan de molde
+cuerno
+Pan baguette
+panqueques
+cuña de queso
+carne en hueso
+pierna de ave
+tocino
+hamburguesa
+papas fritas
+pedazo de pizza
+Pancho
+Taco
+Burrito
+cocina
+bote de comida
+ensalada verde
+palomitas de maiz
+caja de bento
+galleta de arroz
+bola de arroz
+arroz cocido
+curry y arroz
+Tazón de vapor
+espaguetis
+Patata dulce tostada
+Oden
+Sushi
+camarón frito
+torta de pescado con diseño de remolino
+dango
+helado suave
+Hielo picado
+helado
+rosquilla
+Galleta
+pastel de cumpleaños
+torta de frutas
+barra de chocolate
+caramelo
+chupete
+lactoso
+tarro de miel
+biberón
+vaso de leche
+bebida caliente
+taza de té sin mango
+botella de sake y taza
+botella con tapón de corcho
+Copa de vino
+Copa de coctel
+bebida tropical
+jarro de cerveza
+tazas de cerveza tintineo
+gafas tintineantes
+Vaso de vidrio
+tenedor y cuchillo con plato
+tenedor y cuchillo
+cuchara
+Sonriendo
+sonriendo con ojos sonrientes
+ con lágrimas de alegría
+rodando en el piso, riendo
+sonriendo con la boca abierta
+sonriendo con la boca abierta y los ojos sonrientes
+sonriendo con la boca abierta y sudor frío
+sonriendo con la boca abierta y los ojos bien cerrados
+parpadeo
+sonriendo con ojos sonrientes
+ saboreando deliciosa comida
+sonriente con gafas de sol
+sonriendo con ojos en forma de corazón
+ tirando un beso
+Besando
+besando con ojos sonrientes
+besar con los ojos cerrados
+blanco sonriente
+levemente sonriendo
+Abrazando
+pensando
+neutral
+inexpresivo
+ sin boca
+ con los ojos rodando
+Sonriendo
+perseverante
+Decepcionado pero aliviado
+ con la boca abierta
+boca cremallera
+Callado
+soñoliento
+cansado
+dormido
+Aliviado
+ con la lengua pegada
+ con la lengua pegada hacia fuera y el ojo que guiña
+ con la lengua pegada hacia fuera y los ojos firmemente cerrados
+Babeando
+Sin amamantar
+ con sudor frío
+pensativo
+confuso
+al revés
+boca de dinero
+asombrado
+ceño fruncido blanco
+ligeramente fruncido
+aturdido
+decepcionado
+preocupado
+ con mirada de triunfo
+llorando
+Llorando fuerte
+fruncir el ceño con la boca abierta
+angustiado
+temeroso
+cansado
+Haciendo muecas
+ con boca abierta y sudor frío
+ gritando de miedo
+Enrojecido
+mareado
+Hacer pucheros
+enojado
+ con máscara médica
+ con termómetro
+ con vendaje de la cabeza
+Nauseado
+Estornudo
+sonriendo con halo
+ con sombrero de vaquero
+payaso
+acostado
+Nerd
+sonriendo con cuernos
+diablillo
+ogro japonés
+goblin japonés
+cráneo
+fantasma
+extranjero extraterrestre
+robot
+montón de caca
+gato sonriente con la boca abierta
+sonriendo, gato, sonriente, ojos
+gato con lágrimas de alegría
+gato sonriente con ojos en forma de corazón
+gato con sonrisa irónica
+besando al gato con los ojos cerrados
+gato cansado
+gato llorando
+gato aburrido
+bebé
+chico
+niña
+hombre
+mujer
+hombre mayor
+mujer mayor
+trabajador de salud masculino
+trabajadora de salud
+estudiante masculino
+estudiante femenina
+juez masculino
+juez
+Macho agricultor
+agricultora
+cocinero masculino
+cocinera
+mecánico masculino
+mecánica femenina
+trabajador de fábrica
+Trabajadora de una fábrica
+trabajador de oficina
+trabajadora de oficina
+científico masculino
+científico femenino
+tecnólogo masculino
+tecnólogo
+cantante
+cantante femenina
+artista masculino
+artista femenina
+piloto masculino
+piloto femenino
+astronauta masculino
+astronauta femenina
+bombero hombre
+bombero
+oficial de policia
+oficial de policía masculino
+oficial de policía
+detective o espía
+detective masculino
+detective femenino
+defensor
+Guardia masculina
+guardia femenina
+Obrero
+trabajador de la construcción
+trabajador de la construcción
+Príncipe
+princesa
+hombre con turbante
+hombre llevando turbante
+mujer llevando turbante
+hombre con gua pi mao
+persona con el pelo rubio
+Hombre rubio
+Mujer rubia
+hombre en esmoquin
+novia con velo
+mujer embarazada
+Ángel bebé
+papá Noel
+madre navidad
+Persona frunciendo el ceño
+hombre frunciendo el ceño
+mujer frunciendo el ceño
+persona con hacer pucheros
+hombre haciendo pucheros
+mujer haciendo pucheros
+ sin buen gesto
+hombre haciendo gestos no está bien
+mujer gesticulando no bien
+ con gesto bien
+hombre gesticulando bien
+mujer gesticulando bien
+persona de la mesa de información
+hombre, inclinar, mano
+mujer, inclinar, mano
+feliz persona levantando una mano
+hombre levantando la mano
+mujer, levantamiento, mano
+persona que se inclina profundamente
+hombre inclinándose profundamente
+mujer haciendo una reverencia
+ palma
+hombre de palma
+mujer
+encogimiento de hombros
+el hombre se encoge de hombros
+mujer encogimiento de hombros
+ masaje
+hombre recibiendo masaje
+mujer recibiendo masaje
+Corte de pelo
+hombre que consigue el corte de pelo
+mujer que consigue el corte de pelo
+peatonal
+hombre caminando
+mujer caminando
+corredor
+hombre corriendo
+mujer corriendo
+bailarín
+hombre bailando
+mujer con orejas de conejo
+hombres con las orejas de conejito
+mujeres con las orejas del conejito que partying
+hombre en traje de negocios levitando
+hablando cabeza en silueta
+busto en la silueta
+bustos en silueta
+hombre, mujer, tenencia, manos
+dos, hombres, tenencia, manos
+dos, mujeres, tenencia, Manos
+Beso
+beso hombre hombre
+beso mujer mujer
+pareja con el corazón
+pareja con el corazón hombre hombre
+pareja con el corazón mujer mujer
+familia
+hombre de la familia hombre de la mujer
+hombre de la familia mujer de la mujer
+hombre de la familia hombre de la mujer
+familia hombre mujer niño niño
+hombre de la familia mujer niña chica
+hombre de familia hombre de hombre
+hombre de familia hombre de mujer
+hombre de la familia hombre de la niña
+hombre de familia hombre de niño
+hombre de la familia hombre de la niña chica
+mujer de la familia mujer de la mujer
+mujer de la familia mujer de la mujer
+mujer de la familia mujer de la mujer niña
+familia mujer mujer niño niño
+mujer de la familia mujer de la niña chica
+niño de familia
+hombre de familia hombre de niño
+chica del hombre de la familia
+niño de la familia
+familia, hombre, niña, niña
+mujer mujer niño
+familia, mujer, niño, niño
+mujer de la familia chica
+familia, mujer, niña, niño
+mujer de la familia chica de la niña
+Yo mismo
+bíceps flexionado
+índice de revés de punta izquierda blanco
+índice apuntando a la derecha
+blanco hasta índice de apuntar
+blanco hasta apuntando índice de revés
+mano invertida con el dedo medio extendido
+blanco abajo apuntando índice de revés
+mano de victoria
+mano con índice y dedos del medio cruzados
+mano levantada con parte entre los dedos medios y anulares
+signo de los cuernos
+mano levantada con los dedos extendidos
+mano levantada
+ok signo de la mano
+Signo de los pulgares para arriba
+signo de los pulgar hacia abajo
+puño levantado
+signo de mano fisted
+puño frente a la izquierda
+puño derecho
+levantado de la mano
+agitando signo de la mano
+Escribiendo la mano
+aplaudir, manos, señal
+signo de manos abiertas
+persona, levantar, ambos, manos, celebración
+Persona con las manos dobladas
+apretón de manos
+esmalte de uñas
+oreja
+nariz
+Huellas
+Ojos
+ojo
+lengua
+boca
+marca de beso
+los anteojos
+gafas de sol oscuras
+corbata
+camiseta
+pantalones
+vestir
+kimono
+bikini
+ropa de mujer
+bolso
+bolso
+bolsa
+mochila escolar
+equipo de zapatos
+calzado deportivo
+zapato de tacón alto
+sandalia mujer
+botas mujer
+corona
+sombrero de la mujer
+Sombrero de copa
+gorro de graduación
+casco con la cruz blanca
+lápiz labial
+anillo
+paraguas cerrado
+paraguas
+maletín
+no veo mono malvado
+no oyes ningún mono malvado
+no hables mono malvado
+símbolo de colisión
+salpicar el símbolo de sudor
+Símbolo de guión
+símbolo mareado
+mono
+mono
+gorila
+perro
+perro
+caniche
+lobo
+zorro
+gato
+gato
+león
+Tigre
+Tigre
+leopardo
+caballo
+caballo
+unicornio
+vaca
+buey
+búfalo de agua
+vaca
+cerdo
+cerdo
+Jabali
+nariz de cerdo
+RAM
+oveja
+cabra
+camello dromedario
+camello bactriano
+elefante
+rinoceronte
+ratón
+ratón
+rata
+hámster
+Conejo
+Conejo
+Chipmunk traducción
+murciélago
+oso
+coala
+panda
+huellas de garras
+Turquía
+pollo
+gallo
+polluelo para incubar
+pollito
+frente, frente, bebé, polluelo
+pájaro
+pingüino
+Paloma de la paz
+águila
+pato
+búho
+rana
+cocodrilo
+Tortuga
+lagartija
+serpiente
+dragón
+dragón
+ballena jorobada
+ballena
+delfín
+pescado
+pez tropical
+Pez globo
+tiburón
+pulpo
+concha espiral
+cangrejo
+camarón
+calamar
+caracol
+mariposa
+error
+hormiga
+Abeja
+escarabajo
+araña
+telaraña
+escorpión
+ramo
+flor de cerezo
+flor blanca
+rosetón
+Rosa
+flor marchita
+hibisco
+girasol
+flor
+tulipán
+planta de semillero
+árbol de hoja perenne
+Árbol de hoja caduca
+palmera
+cactus
+oreja de arroz
+hierba
+trébol
+trébol de cuatro hojas
+hoja de arce
+Hoja caida
+hoja revoloteando en el viento
+seta
+castaña
+tierra globo europa africa
+mundo tierra americas
+tierra globo asia australia
+globo con meridianos
+símbolo de la luna nueva
+símbolo creciente de la luna creciente
+primer cuarto símbolo de la luna
+encerando el símbolo de la luna gibosa
+símbolo de la luna llena
+símbolo de la luna gibbous que mengua
+último símbolo de la luna de cuarto
+símbolo creciente de la luna creciente
+Luna creciente
+luna nueva con
+primer cuarto de luna con
+último cuarto de luna con
+sol negro con rayos
+luna llena con
+Sol con
+blanco medio estrella
+Estrella brillante
+estrella fugaz
+nube
+sol detrás de la nube
+nubes y lluvia
+sol blanco con nube pequeña
+sol blanco detrás de la nube
+blanco sol detrás de nubes con lluvia
+Nube con lluvia
+nube con nieve
+nube con un rayo
+nube con tornado
+niebla
+viento que sopla
+arco iris
+paraguas
+paraguas con gotas de lluvia
+Signo de alta tensión
+copo de nieve
+monigote de nieve
+muñeco de nieve sin nieve
+cometa
+fuego
+gotita
+ola de agua
+árbol de Navidad
+Chispea
+árbol tanabata
+decoración de pino
+monstruo alienigena
+hombre en traje de negocios levitando
+las carreras de caballos
+esquiador
+Snowboarder
+golfista
+hombre de golf
+mujer de golf
+tablista
+hombre que practica surf
+mujer que practica surf
+bote de remos
+hombre barco con remos
+barco de remos mujer
+nadador
+natación
+mujer nadando
+persona con pelota
+hombre con pelota
+mujer con pelota
+Levantador de peso
+levantamiento de pesas hombre
+mujer levantamiento de pesas
+ciclista
+hombre de bicicleta
+bicicleta mujer
+ciclista de montaña
+hombre ciclismo de montaña
+mujer ciclismo de montaña
+persona, hacer, cartwheel
+hombre haciendo cartwheel
+mujer haciendo cartwheel
+Luchadores
+hombres luchando
+mujeres luchando
+waterpolo
+hombre jugando water polo
+mujer jugando water polo
+balonmano
+hombre jugando al balonmano
+mujer jugando al balonmano
+Malabarismo
+malabarismo
+mujer malabarista
+tienda de circo
+las artes escénicas
+paleta de artista
+maquina de casino
+cinta recordatorio
+boletos de admisión
+boleto
+medalla militar
+trofeo
+medalla deportiva
+medalla de primer lugar
+medalla de segundo lugar
+medalla de tercer lugar
+balón de fútbol
+béisbol
+baloncesto y aro
+voleibol
+fútbol americano
+fútbol de rugby
+raqueta de tenis y pelota
+billar
+bolos
+bate de cricket y pelota
+palo de hockey de campo y pelota
+palo de hockey sobre hielo y disco
+pelota de tenis de mesa y pelota
+raqueta de bádminton y volante
+guante de boxeo
+uniforme de las artes marciales
+golpe directo
+bandera en el agujero
+patinar sobre hielo
+caña de pescar y pescado
+camisa con faja
+botas de esquí y esquí
+videojuego
+muere el juego
+puntuación musical
+micrófono
+auricular
+saxofón
+guitarra
+teclado musical
+trompeta
+violín
+tambor con palillos
+tablero de chapaleta
+arco y flecha
+calavera
+bañera
+alojamiento para dormir
+carta de amor
+bomba
+agujero
+bolsas de compra
+Rosario
+piedra de gema
+Hocho
+ánfora
+mapa del mundo
+Barbero
+marco con imagen
+campana del campanero
+puerta
+cama
+sofá y lámpara
+baño
+ducha
+bañera
+reloj de arena
+reloj de arena con arena que fluye
+reloj
+despertador
+cronógrafo
+reloj del temporizador
+reloj de chimenea
+termómetro
+paraguas en el suelo
+globo
+aguafiestas
+bola de confeti
+muñecas japonesas
+serpentina de la carpa
+Carillón de viento
+cinta
+presente envuelto
+palanca de mando
+cuerno postal
+micrófono de estudio
+deslizador de nivel
+perillas de control
+radio
+teléfono móvil
+teléfono móvil con flecha hacia la derecha a la izquierda
+teléfono negro
+receptor de teléfono
+buscapersonas
+máquina de fax
+batería
+enchufe eléctrico
+computadora personal
+Computadora de escritorio
+impresora
+teclado
+ratón de tres botones
+trackball
+minidisco
+disco flexible
+disco óptico
+DVD
+Cámara de cine
+marcos de película
+proyector de cine
+televisión
+cámara
+cámara con flash
+camara de video
+videocasetera
+izquierda, señalar, lupa
+derecho, señalar, magnifying glass
+microscopio
+telescopio
+antena satelital
+vela
+bombilla eléctrica
+antorcha eléctrica
+linterna izakaya
+portátil con cubierta decorativa
+libro cerrado
+libro abierto
+libro Verde
+libro Azul
+libro naranja
+libros
+cuaderno
+página con rizo
+voluta
+página hacia arriba
+periódico
+periódico enrollado
+pestañas de marcador
+marcador
+etiqueta
+bolsa de dinero
+billete con signo de yen
+billete con signo de dólar
+billete con signo del euro
+billete, libra, señal
+dinero con alas
+tarjeta de crédito
+sobre
+símbolo del correo electrónico
+sobre entrante
+sobre con la flecha hacia abajo arriba
+bandeja de salida
+bandeja de entrada
+paquete
+buzón cerrado con bandera elevada
+buzón cerrado con bandera baja
+buzón abierto con bandera elevada
+buzón abierto con bandera baja
+buzón
+urna de votación
+lápiz
+plumilla negra
+pluma estilográfica inferior izquierda
+bolígrafo izquierdo inferior
+Pincel inferior izquierdo
+lápiz inferior izquierdo
+memorándum
+Carpeta de archivos
+abrir carpeta de archivos
+divisores de índice de tarjetas
+calendario
+arrancar calendario
+bloc de notas espiral
+calendario espiral
+fichero
+gráfico con tendencia al alza
+gráfico con tendencia a la baja
+gráfico de barras
+portapapeles
+chincheta
+pasador redondo
+clip de papel
+clips ligados
+regla recta
+regla triangular
+tijeras negras
+caja de fichero
+archivador
+papelera
+bloquear
+bloqueo abierto
+bloqueo con pluma de tinta
+cierre cerrado con llave
+llave
+llave vieja
+martillo
+recoger
+martillo y pico
+martillo y llave inglesa
+cuchillo de daga
+espadas cruzadas
+pistola
+proteger
+llave inglesa
+tuerca y el perno
+engranaje
+compresión
+alambique
+escamas
+símbolo de enlace
+Cadenas
+jeringuilla
+píldora
+símbolo de fumar
+ataúd
+urna funeraria
+Moyai
+tambor de aceite
+bola de cristal
+símbolo del agua potable
+Bandera a cuadros
+bandera triangular en el poste
+banderas cruzadas
+agitando bandera negra
+agitando bandera blanca
+bandera del arco iris

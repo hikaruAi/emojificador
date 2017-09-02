@@ -1,0 +1,838 @@
+
+grapes 
+melon 
+watermelon 
+tangerine 
+lemon 
+banana 
+pineapple 
+red apple 
+green apple 
+pear 
+peach 
+cherries 
+strawberry 
+kiwifruit 
+tomato 
+avocado 
+aubergine 
+potato 
+carrot 
+ear of maize 
+hot pepper 
+cucumber 
+mushroom 
+peanuts 
+chestnut 
+bread 
+croissant 
+baguette bread 
+pancakes 
+cheese wedge 
+meat on bone 
+poultry leg 
+bacon 
+hamburger 
+french fries 
+slice of pizza 
+hot dog 
+taco 
+burrito 
+cooking 
+pot of food 
+green salad 
+popcorn 
+bento box 
+rice cracker 
+rice ball 
+cooked rice 
+curry and rice 
+steaming bowl 
+spaghetti 
+roasted sweet potato 
+oden 
+sushi 
+fried shrimp 
+fish cake with swirl design 
+dango 
+soft ice cream 
+shaved ice 
+ice cream 
+doughnut 
+cookie 
+birthday cake 
+shortcake 
+chocolate bar 
+candy 
+lollipop 
+custard 
+honey pot 
+baby bottle 
+glass of milk 
+hot beverage 
+teacup without handle 
+sake bottle and cup 
+bottle with popping cork 
+wine glass 
+cocktail glass 
+tropical drink 
+beer mug 
+clinking beer mugs 
+clinking glasses 
+tumbler glass 
+fork and knife with plate 
+fork and knife 
+spoon 
+
+
+grinning  
+grinning  with smiling eyes 
+ with tears of joy 
+rolling on the floor laughing 
+smiling  with open mouth 
+smiling  with open mouth and smiling eyes 
+smiling  with open mouth and cold sweat 
+smiling  with open mouth and tightly closed eyes 
+winking  
+smiling  with smiling eyes 
+ savouring delicious food 
+smiling  with sunglasses 
+smiling  with heart shaped eyes 
+ throwing a kiss 
+kissing  
+kissing  with smiling eyes 
+kissing  with closed eyes 
+white smiling  
+slightly smiling  
+hugging  
+thinking  
+neutral  
+expressionless  
+ without mouth 
+ with rolling eyes 
+smirking  
+persevering  
+disappointed but relieved  
+ with open mouth 
+zipper mouth  
+hushed  
+sleepy  
+tired  
+sleeping  
+relieved  
+ with stuck out tongue 
+ with stuck out tongue and winking eye 
+ with stuck out tongue and tightly closed eyes 
+drooling  
+unamused  
+ with cold sweat 
+pensive  
+confused  
+upside down  
+money mouth  
+astonished  
+white frowning  
+slightly frowning  
+confounded  
+disappointed  
+worried  
+ with look of triumph 
+crying  
+loudly crying  
+frowning  with open mouth 
+anguished  
+fearful  
+weary  
+grimacing  
+ with open mouth and cold sweat 
+ screaming in fear 
+flushed  
+dizzy  
+pouting  
+angry  
+ with medical mask 
+ with thermometer 
+ with head bandage 
+nauseated  
+sneezing  
+smiling  with halo 
+ with cowboy hat 
+clown  
+lying  
+nerd  
+smiling  with horns 
+imp 
+japanese ogre 
+japanese goblin 
+skull 
+ghost 
+extraterrestrial alien 
+robot  
+pile of poo 
+smiling cat  with open mouth 
+grinning cat  with smiling eyes 
+cat  with tears of joy 
+smiling cat  with heart shaped eyes 
+cat  with wry smile 
+kissing cat  with closed eyes 
+weary cat  
+crying cat  
+pouting cat  
+baby 
+boy 
+girl 
+man 
+woman 
+older man 
+older woman 
+male health worker 
+female health worker 
+male student 
+female student 
+male judge 
+female judge 
+male farmer 
+female farmer 
+male cook 
+female cook 
+male mechanic 
+female mechanic 
+male factory worker 
+female factory worker 
+male office worker 
+female office worker 
+male scientist 
+female scientist 
+male technologist 
+female technologist 
+male singer 
+female singer 
+male artist 
+female artist 
+male pilot 
+female pilot 
+male astronaut 
+female astronaut 
+male firefighter 
+female firefighter 
+police officer 
+male police officer 
+female police officer 
+sleuth or spy 
+male sleuth 
+female sleuth 
+guardsman 
+male guard 
+female guard 
+construction worker 
+male construction worker 
+female construction worker 
+prince 
+princess 
+man with turban 
+man wearing turban 
+woman wearing turban 
+man with gua pi mao 
+person with blond hair 
+blond man 
+blonde woman 
+man in tuxedo 
+bride with veil 
+pregnant woman 
+baby angel 
+father christmas 
+mother christmas 
+person frowning 
+man frowning 
+woman frowning 
+person with pouting  
+man pouting 
+woman pouting 
+ with no good gesture 
+man gesturing not ok 
+woman gesturing not ok 
+ with ok gesture 
+man gesturing ok 
+woman gesturing ok 
+information desk person 
+man tipping hand 
+woman tipping hand 
+happy person raising one hand 
+man raising hand 
+woman raising hand 
+person bowing deeply 
+man bowing deeply 
+woman bowing deeply 
+ palm 
+man palming 
+woman palming 
+shrug 
+man shrugging 
+woman shrugging 
+ massage 
+man getting  massage 
+woman getting  massage 
+haircut 
+man getting haircut 
+woman getting haircut 
+pedestrian 
+man walking 
+woman walking 
+runner 
+man running 
+woman running 
+dancer 
+man dancing 
+woman with bunny ears 
+men with bunny ears partying 
+women with bunny ears partying 
+man in business suit levitating 
+speaking head in silhouette 
+bust in silhouette 
+busts in silhouette 
+man and woman holding hands 
+two men holding hands 
+two women holding hands 
+kiss 
+kiss man man 
+kiss woman woman 
+couple with heart 
+couple with heart man man 
+couple with heart woman woman 
+family 
+family man woman boy 
+family man woman girl 
+family man woman girl boy 
+family man woman boy boy 
+family man woman girl girl 
+family man man boy 
+family man man girl 
+family man man girl boy 
+family man man boy boy 
+family man man girl girl 
+family woman woman boy 
+family woman woman girl 
+family woman woman girl boy 
+family woman woman boy boy 
+family woman woman girl girl 
+family man boy 
+family man boy boy 
+family man girl 
+family man girl boy 
+family man girl girl 
+family woman boy 
+family woman boy boy 
+family woman girl 
+family woman girl boy 
+family woman girl girl 
+selfie 
+flexed biceps 
+white left pointing backhand index 
+white right pointing backhand index 
+white up pointing index 
+white up pointing backhand index 
+reversed hand with middle finger extended 
+white down pointing backhand index 
+victory hand 
+hand with index and middle fingers crossed 
+raised hand with part between middle and ring fingers 
+sign of the horns 
+raised hand with fingers splayed 
+raised hand 
+ok hand sign 
+thumbs up sign 
+thumbs down sign 
+raised fist 
+fisted hand sign 
+left facing fist 
+right facing fist 
+raised back of hand 
+waving hand sign 
+writing hand 
+clapping hands sign 
+open hands sign 
+person raising both hands in celebration 
+person with folded hands 
+handshake 
+nail polish 
+ear 
+nose 
+footprints 
+eyes 
+eye 
+tongue 
+mouth 
+kiss mark 
+eyeglasses 
+dark sunglasses 
+necktie 
+t shirt 
+jeans 
+dress 
+kimono 
+bikini 
+womans clothes 
+purse 
+handbag 
+pouch 
+school satchel 
+mans shoe 
+athletic shoe 
+high heeled shoe 
+womans sandal 
+womans boots 
+crown 
+womans hat 
+top hat 
+graduation cap 
+helmet with white cross 
+lipstick 
+ring 
+closed umbrella 
+umbrella 
+briefcase 
+
+
+see no evil monkey 
+hear no evil monkey 
+speak no evil monkey 
+collision symbol 
+splashing sweat symbol 
+dash symbol 
+dizzy symbol 
+monkey  
+monkey 
+gorilla 
+dog  
+dog 
+poodle 
+wolf  
+fox  
+cat  
+cat 
+lion  
+tiger  
+tiger 
+leopard 
+horse  
+horse 
+unicorn  
+cow  
+ox 
+water buffalo 
+cow 
+pig  
+pig 
+boar 
+pig nose 
+ram 
+sheep 
+goat 
+dromedary camel 
+bactrian camel 
+elephant 
+rhinoceros 
+mouse  
+mouse 
+rat 
+hamster  
+rabbit  
+rabbit 
+chipmunk 
+bat 
+bear  
+koala 
+panda  
+paw prints 
+turkey 
+chicken 
+rooster 
+hatching chick 
+baby chick 
+front facing baby chick 
+bird 
+penguin 
+dove of peace 
+eagle 
+duck 
+owl 
+frog  
+crocodile 
+turtle 
+lizard 
+snake 
+dragon  
+dragon 
+spouting whale 
+whale 
+dolphin 
+fish 
+tropical fish 
+blowfish 
+shark 
+octopus 
+spiral shell 
+crab 
+shrimp 
+squid 
+snail 
+butterfly 
+bug 
+ant 
+honeybee 
+lady beetle 
+spider 
+spider web 
+scorpion 
+bouquet 
+cherry blossom 
+white flower 
+rosette 
+rose 
+wilted flower 
+hibiscus 
+sunflower 
+blossom 
+tulip 
+seedling 
+evergreen tree 
+deciduous tree 
+palm tree 
+cactus 
+ear of rice 
+herb 
+shamrock 
+four leaf clover 
+maple leaf 
+fallen leaf 
+leaf fluttering in wind 
+mushroom 
+chestnut 
+earth globe europe africa 
+earth globe americas 
+earth globe asia australia 
+globe with meridians 
+new moon symbol 
+waxing crescent moon symbol 
+first quarter moon symbol 
+waxing gibbous moon symbol 
+full moon symbol 
+waning gibbous moon symbol 
+last quarter moon symbol 
+waning crescent moon symbol 
+crescent moon 
+new moon with  
+first quarter moon with  
+last quarter moon with  
+black sun with rays 
+full moon with  
+sun with  
+white medium star 
+glowing star 
+shooting star 
+cloud 
+sun behind cloud 
+thunder cloud and rain 
+white sun with small cloud 
+white sun behind cloud 
+white sun behind cloud with rain 
+cloud with rain 
+cloud with snow 
+cloud with lightning 
+cloud with tornado 
+fog 
+wind blowing  
+rainbow 
+umbrella 
+umbrella with rain drops 
+high voltage sign 
+snowflake 
+snowman 
+snowman without snow 
+comet 
+fire 
+droplet 
+water wave 
+christmas tree 
+sparkles 
+tanabata tree 
+pine decoration 
+
+
+alien monster 
+man in business suit levitating 
+horse racing 
+skier 
+snowboarder 
+golfer 
+man golfing 
+woman golfing 
+surfer 
+man surfing 
+woman surfing 
+rowboat 
+man rowing boat 
+woman rowing boat 
+swimmer 
+man swimming 
+woman swimming 
+person with ball 
+man with ball 
+woman with ball 
+weight lifter 
+man weight lifting 
+woman weight lifting 
+bicyclist 
+man biking 
+woman biking 
+mountain bicyclist 
+man mountain biking 
+woman mountain biking 
+person doing cartwheel 
+man doing cartwheel 
+woman doing cartwheel 
+wrestlers 
+men wrestling 
+women wrestling 
+water polo 
+man playing water polo 
+woman playing water polo 
+handball 
+man playing handball 
+woman playing handball 
+juggling 
+man juggling 
+woman juggling 
+circus tent 
+performing arts 
+artist palette 
+slot machine 
+reminder ribbon 
+admission tickets 
+ticket 
+military medal 
+trophy 
+sports medal 
+first place medal 
+second place medal 
+third place medal 
+soccer ball 
+baseball 
+basketball and hoop 
+volleyball 
+american football 
+rugby football 
+tennis racquet and ball 
+billiards 
+bowling 
+cricket bat and ball 
+field hockey stick and ball 
+ice hockey stick and puck 
+table tennis paddle and ball 
+badminton racquet and shuttlecock 
+boxing glove 
+martial arts uniform 
+direct hit 
+flag in hole 
+ice skate 
+fishing pole and fish 
+running shirt with sash 
+ski and ski boot 
+video game 
+game die 
+musical score 
+microphone 
+headphone 
+saxophone 
+guitar 
+musical keyboard 
+trumpet 
+violin 
+drum with drumsticks 
+clapper board 
+bow and arrow 
+
+
+skull and crossbones 
+bath 
+sleeping accommodation 
+love letter 
+bomb 
+hole 
+shopping bags 
+prayer beads 
+gem stone 
+hocho 
+amphora 
+world map 
+barber pole 
+frame with picture 
+bellhop bell 
+door 
+bed 
+couch and lamp 
+toilet 
+shower 
+bathtub 
+hourglass 
+hourglass with flowing sand 
+watch 
+alarm clock 
+stopwatch 
+timer clock 
+mantelpiece clock 
+thermometer 
+umbrella on ground 
+balloon 
+party popper 
+confetti ball 
+japanese dolls 
+carp streamer 
+wind chime 
+ribbon 
+wrapped present 
+joystick 
+postal horn 
+studio microphone 
+level slider 
+control knobs 
+radio 
+mobile phone 
+mobile phone with rightwards arrow at left 
+black telephone 
+telephone receiver 
+pager 
+fax machine 
+battery 
+electric plug 
+personal computer 
+desktop computer 
+printer 
+keyboard 
+three button mouse 
+trackball 
+minidisc 
+floppy disk 
+optical disc 
+dvd 
+movie camera 
+film frames 
+film projector 
+television 
+camera 
+camera with flash 
+video camera 
+videocassette 
+left pointing magnifying glass 
+right pointing magnifying glass 
+microscope 
+telescope 
+satellite antenna 
+candle 
+electric light bulb 
+electric torch 
+izakaya lantern 
+notebook with decorative cover 
+closed book 
+open book 
+green book 
+blue book 
+orange book 
+books 
+notebook 
+page with curl 
+scroll 
+page facing up 
+newspaper 
+rolled up newspaper 
+bookmark tabs 
+bookmark 
+label 
+money bag 
+banknote with yen sign 
+banknote with dollar sign 
+banknote with euro sign 
+banknote with pound sign 
+money with wings 
+credit card 
+envelope 
+e mail symbol 
+incoming envelope 
+envelope with downwards arrow above 
+outbox tray 
+inbox tray 
+package 
+closed mailbox with raised flag 
+closed mailbox with lowered flag 
+open mailbox with raised flag 
+open mailbox with lowered flag 
+postbox 
+ballot box with ballot 
+pencil 
+black nib 
+lower left fountain pen 
+lower left ballpoint pen 
+lower left paintbrush 
+lower left crayon 
+memo 
+file folder 
+open file folder 
+card index dividers 
+calendar 
+tear off calendar 
+spiral note pad 
+spiral calendar pad 
+card index 
+chart with upwards trend 
+chart with downwards trend 
+bar chart 
+clipboard 
+pushpin 
+round pushpin 
+paperclip 
+linked paperclips 
+straight ruler 
+triangular ruler 
+black scissors 
+card file box 
+file cabinet 
+wastebasket 
+lock 
+open lock 
+lock with ink pen 
+closed lock with key 
+key 
+old key 
+hammer 
+pick 
+hammer and pick 
+hammer and wrench 
+dagger knife 
+crossed swords 
+pistol 
+shield 
+wrench 
+nut and bolt 
+gear 
+compression 
+alembic 
+scales 
+link symbol 
+chains 
+syringe 
+pill 
+smoking symbol 
+coffin 
+funeral urn 
+moyai 
+oil drum 
+crystal ball 
+potable water symbol 
+chequered flag 
+triangular flag on post 
+crossed flags 
+waving black flag 
+waving white flag 
+rainbow flag 
+
+
